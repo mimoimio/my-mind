@@ -11,4 +11,6 @@ Your entire goal with the $30 micro-tests, fixing bugs, and improving monetizati
 - [[First Try Myth]]. 
 - [[Technical Performance (The Silent Killer)]]
 
+Don't forget, about the [[thumbnails]] when advertising.
+
 #roblox

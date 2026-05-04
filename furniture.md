@@ -1,0 +1,1 @@
+Just an empty decor, sometimes have quirky interaction

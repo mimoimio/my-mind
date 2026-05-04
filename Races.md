@@ -1,0 +1,1 @@
+[[Tall man]], [[Elf]], [[Half-foot]], [[Drawves]], [[orcs]], [[Southerners]], [[Gnomes]]

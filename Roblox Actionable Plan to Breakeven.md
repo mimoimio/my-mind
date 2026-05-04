@@ -1,4 +1,4 @@
-# Roblox Actionable Plan to Breakeven
+#exclude
 
 ## 1. Feasibility Analysis & The Acquisition Concern
 Your biggest concern is acquisition and the steep [[RM 6,200]] (approx $1.3k USD) requirement for cold traffic. However, based on your [[Previous Ad Acquisitions]], your situation is actually highly favorable for bootstrapping:

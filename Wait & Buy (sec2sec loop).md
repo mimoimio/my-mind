@@ -1,0 +1,1 @@
+Here we buy [[furniture]]s, and [[special station]]s. While waiting for money to generate

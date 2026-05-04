@@ -1,0 +1,1 @@
+is used to store ingredients bought, to generate bigger money.

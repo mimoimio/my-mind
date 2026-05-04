@@ -1,0 +1,1 @@
+A Humanoid with Fish lower body and a female humanoid upper torso. Lures listeners with their voice

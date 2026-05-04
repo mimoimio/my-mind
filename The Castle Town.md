@@ -1,0 +1,1 @@
+The golden castle's ground level. Many empty houses, now is lived by [[orcs]]. Now is being raided by the [[Lord of the Dungeon]]'s [[Red Dragon]]

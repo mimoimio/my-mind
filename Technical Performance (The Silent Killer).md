@@ -1,0 +1,1 @@
+You can have the best monetization and FTUE in the world, but over 70% of the Roblox audience is on mobile. If your UI is heavy, your code is unoptimized, or the game takes too long to load on an older phone, players will crash or leave before they even see your tutorial. Snappy, predictable state management and clean UI rendering are non-negotiable for retention.

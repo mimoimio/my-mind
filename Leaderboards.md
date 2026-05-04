@@ -1,0 +1,2 @@
+- **How it works:** Add global and server-wide leaderboards for metrics like "Total Customers Served," "Lifetime Earnings," or "Longest Daily Streak."
+- **Why it works:** The players at the top of the leaderboard will play daily (and spend heavily on boosts) simply to defend their #1 spot from the player at #2. It creates an automated ecosystem of competition that you don't have to manage.

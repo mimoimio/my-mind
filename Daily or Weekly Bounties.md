@@ -1,0 +1,3 @@
+- **How it works:** Instead of just logging in to look at their money, give them a rotating checklist. "Serve 50 lattes today for a rare loot box." "Complete 5 daily bounties to unlock a unique apron."
+    
+- **Why it works:** It forces players to interact with different parts of the game they might otherwise ignore, and it pre-commits them to logging in tomorrow. If they miss a day, they break their streak—which creates the psychological phenomenon known as Loss Aversion.

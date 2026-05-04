@@ -1,0 +1,5 @@
+If players leave after five minutes, your LTV will always be zero, no matter how great your gamepasses are. Retention is the foundation:
+
+- **Frictionless UI** Players will immediately abandon a game if the menus are clunky or unresponsive. A clean, lag-free interface powered by predictable state management ensures that complex actions—like navigating a procedural crafting menu or tracking multiple customer orders—feel smooth.
+- **Pacing the Core Loop:** Don't give the player everything at once. Whether they are unlocking new potion ingredients or upgrading an espresso machine, the progression should feel earned but not agonizingly slow. The first major upgrade should happen within the first 3 to 5 minutes to trigger a dopamine hit and secure Day 1 retention.
+- **Protect the Economy:** If your game relies on accumulating currency, exploiters can ruin the experience for everyone else, tanking your retention. Relying on a strict server-authoritative architecture ensures that auto-clickers and hackers can't artificially inflate their stats and ruin the competitive or social balance of the game.

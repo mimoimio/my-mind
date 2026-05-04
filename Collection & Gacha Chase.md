@@ -1,0 +1,3 @@
+- **How it works:** Introduce items with brutal drop rates. This could be a recipe system where a "Mythic Golden Espresso Bean" has a 0.5% chance to drop from a daily task, or a system where they roll for ultra-rare cosmetic pets or visual auras.
+    
+- **Why it works:** It introduces an infinite time sink. Plus, it serves as a massive revenue driver for players who are willing to spend Robux to bypass the grind and roll for the rarest items immediately.

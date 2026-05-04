@@ -1,0 +1,1 @@
+The root starts at [[Make money goal]]

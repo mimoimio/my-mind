@@ -1,0 +1,3 @@
+- **How it works:** A player completely upgrades their first setup. They hit a wall. You offer them the ability to "Franchise" or "Rebirth." They lose all their cash and machines, but they gain a "2x Profit Multiplier" and a shiny "Level 2" badge next to their name in the chat.
+    
+- **Why it works:** It recycles your existing content. You don't have to code 500 hours of new gameplay; you just incentivize them to play the first 10 hours fifty times over.

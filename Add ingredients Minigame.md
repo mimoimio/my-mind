@@ -1,1 +1,1 @@
-a timing minigame
+a timing minigame. Time perfectly in the middle

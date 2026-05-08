@@ -11,17 +11,28 @@
             "id": "1468865580d25601",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "85294c117f83fee1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello.md",
+                "file": "Minute1 No Reading Allowed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello"
+              "title": "Minute1 No Reading Allowed"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,9 +163,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "1468865580d25601",
+  "active": "85294c117f83fee1",
   "lastOpenFiles": [
-    "First-Time User Experience.md",
-    "Hello.md"
+    "Hitting the algorithm.md",
+    "Ad Fatigue.md",
+    "Roblox game.md",
+    "blueprint for FTUE.md",
+    "Minute 2 The Core Loop Execution.md",
+    "Minute1 No Reading Allowed.md",
+    "Increase Lifespan (Retention).md",
+    "Familiar.md",
+    "Marcille.md",
+    "Dungeon Meshi Magic System.md",
+    "Immortality Magic.md",
+    "resurrection magic.md",
+    "healing magic.md",
+    "dungeon formation.md",
+    "Build it fast.md",
+    "be the first.md",
+    "Build in public.md",
+    "Coffee Tavern.md",
+    "Races.md",
+    "Gnomes.md",
+    "Varying Biomes.md",
+    "Add ingredients Minigame.md",
+    "Chasing Leaderboards (d2d loops).md",
+    "Hello.md",
+    "First-Time User Experience.md"
   ]
 }

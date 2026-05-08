@@ -1,0 +1,5 @@
+1. [[Minute1 No Reading Allowed]]
+2. [[Minute 2 The Core Loop Execution]]
+3. [[ Minute 3 The Payout (Rigging the Economy)]]
+4. [[Minute 4 The Aha Moment (The First Upgrade)]]
+5. [[Minute 5 The Cliffhanger and The Pitch]]

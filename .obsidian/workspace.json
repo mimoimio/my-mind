@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ae379255cdc1a1b",
+        "id": "1527c2dd48b1f67f",
         "type": "tabs",
         "children": [
           {
-            "id": "13fddb00d6b3e76e",
+            "id": "0d766c7967e956a9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "76e655d35f33f900",
@@ -149,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,39 +161,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13fddb00d6b3e76e",
+  "active": "0d766c7967e956a9",
   "lastOpenFiles": [
+    "First-Time User Experience.md",
+    "blueprint for FTUE.md",
+    "10 heuristics.md",
+    "Help and Documentation.md",
+    "Help Users Recognize, Diagnose, and Recover from Errors.md",
+    "Flexibility and Efficiency of Use.md",
+    "Aesthetic and Minimalist Design.md",
+    "Recognition Rather Than Recall.md",
+    "Error Prevention.md",
+    "Consistency and Standards.md",
+    "Match Between System and the Real World.md",
+    "User Control and Freedom.md",
+    "intuitive.md",
+    "universally understood icons.md",
+    "Visibility of System Status.md",
+    "First 5 Minutes.md",
+    "Make money goal.md",
+    "the next step.md",
+    "Throw Potions Core loops.md",
+    "Throw Potions n Get Rich.md",
+    "Aesthetics.md",
+    "Procedurally generated potion bottles.md",
     "Coffee Tavern.md",
     "My Previously Published Games.md",
     "Craft Coffee.md",
     "hand modeled coffee.md",
-    "Add ingredients Minigame.md",
-    "Throw Potions n Get Rich.md",
     "Screen Recording 2026-05-04 211424.mp4",
-    "Add ingredients, Serve customers (s2s loop).md",
     "2026-02-23 16-16-01.mp4",
-    "Buying better ingredients (m2m loop).md",
-    "Ingredients.md",
-    "Filling up potion book (d2d loop).md",
-    "[Ingredients.md",
-    "Cash.md",
-    "Chasing Leaderboards (d2d loops).md",
-    "Daily Rewards.md",
-    "Touch to collect (The Active Loop).md",
-    "Leaderboards.md",
-    "Procedurally generated potion bottles.md",
-    "Buy more slots and stations (h2h loops).md",
-    "Craft Food.md",
-    "Crafting, Waiting, Placing (s2s loop).md",
-    "Buying better ingredients.md",
-    "Hitting the algorithm.md",
-    "thumbnails.md",
-    "crafting grids.md",
-    "AB Testing.md",
-    "Untitled Witchery Tycoon.md",
     "A",
     "README-md",
     "Pasted image 20260504111120.png",

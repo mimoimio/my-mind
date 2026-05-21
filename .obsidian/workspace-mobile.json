@@ -21,18 +21,24 @@
             "id": "85294c117f83fee1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minute1 No Reading Allowed.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Minute1 No Reading Allowed"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8dba70fefe74d45e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,14 +169,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "85294c117f83fee1",
+  "active": "8dba70fefe74d45e",
   "lastOpenFiles": [
-    "Hitting the algorithm.md",
-    "Ad Fatigue.md",
+    "First-Time User Experience.md",
+    "Tutorial.md",
     "Roblox game.md",
+    "Hitting the algorithm.md",
+    "Workaround.md",
+    "Jual Agama.md",
+    "Problems.md",
+    "mechanics.md",
+    "Gepuk Malam.md",
+    "5 malam.md",
+    "5 perkara sebelum 5 perkara.md",
+    "Throw Potions n Get Rich.md",
+    "Minute1 No Reading Allowed.md",
+    "Ad Fatigue.md",
     "blueprint for FTUE.md",
     "Minute 2 The Core Loop Execution.md",
-    "Minute1 No Reading Allowed.md",
     "Increase Lifespan (Retention).md",
     "Familiar.md",
     "Marcille.md",
@@ -180,15 +196,6 @@
     "healing magic.md",
     "dungeon formation.md",
     "Build it fast.md",
-    "be the first.md",
-    "Build in public.md",
-    "Coffee Tavern.md",
-    "Races.md",
-    "Gnomes.md",
-    "Varying Biomes.md",
-    "Add ingredients Minigame.md",
-    "Chasing Leaderboards (d2d loops).md",
-    "Hello.md",
-    "First-Time User Experience.md"
+    "be the first.md"
   ]
 }

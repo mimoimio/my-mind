@@ -1,0 +1,1 @@
+Ibadah dijadikan sebagai transition

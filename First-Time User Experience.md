@@ -23,3 +23,5 @@ You cannot sell a solution if the player hasn't experienced the problem yet. The
 ### The Ultimate Goal of FTUE
 
 Your FTUE is not just a tutorial; it is a sales pitch. It answers the player's subconscious question: _"Is this game worth my time?"_ If the answer is yes, they stay (Lifespan increases). Once they are staying, they get invested, and eventually, they spend (ARPDAU increases).
+
+[[Tutorial]]

@@ -1,0 +1,5 @@
+[[1. Sihat Sebelum Sakit]]
+[[2. Muda sebelum Tua]]
+[[3. Kaya sebelum Miskin]]
+[[4. Lapang sebelum Sempit]]
+[[5. Hidup sebelum Mati]]

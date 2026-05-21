@@ -1,0 +1,1 @@
+When progressed or achieved a Level, players may use a shortcut to practice later ones, but not letting them get till the true ending

@@ -4,3 +4,6 @@ Ways:
 3. [[Mintak Abah]]. This is one way to acquire money, but not before EPF.
 4. [[Fundraiser]]
 5. [[Business Formalization (SSM)]]
+
+instead of thinking the perfect solution,
+try thinking [[the next step]]

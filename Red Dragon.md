@@ -1,1 +1,1 @@
-is spawned by the [[Lord of the Dungeon]]
+is spawned by the [[Lord of the Dungeon]]. Later turned into a [[Chimera]]

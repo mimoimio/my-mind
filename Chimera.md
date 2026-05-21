@@ -1,0 +1,1 @@
+A mix between [[Red Dragon]] and [[Falin Touden]]

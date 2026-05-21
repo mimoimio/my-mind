@@ -1,0 +1,1 @@
+Little sister of [[Laios Touden]]

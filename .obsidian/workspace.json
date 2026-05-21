@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1527c2dd48b1f67f",
+        "id": "c6745aecb85e9c0f",
         "type": "tabs",
         "children": [
           {
-            "id": "0d766c7967e956a9",
+            "id": "0f416e478ff38df6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "I made a Web Application for Gold Nomination System with Islamic Legal Framework.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "I made a Web Application for Gold Nomination System with Islamic Legal Framework"
             }
           }
         ]
@@ -70,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "76e655d35f33f900",
@@ -165,41 +167,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d766c7967e956a9",
+  "active": "0f416e478ff38df6",
   "lastOpenFiles": [
-    "First-Time User Experience.md",
-    "blueprint for FTUE.md",
-    "10 heuristics.md",
-    "Help and Documentation.md",
-    "Help Users Recognize, Diagnose, and Recover from Errors.md",
-    "Flexibility and Efficiency of Use.md",
-    "Aesthetic and Minimalist Design.md",
-    "Recognition Rather Than Recall.md",
-    "Error Prevention.md",
-    "Consistency and Standards.md",
-    "Match Between System and the Real World.md",
-    "User Control and Freedom.md",
-    "intuitive.md",
-    "universally understood icons.md",
-    "Visibility of System Status.md",
-    "First 5 Minutes.md",
-    "Make money goal.md",
-    "the next step.md",
-    "Throw Potions Core loops.md",
-    "Throw Potions n Get Rich.md",
-    "Aesthetics.md",
-    "Procedurally generated potion bottles.md",
-    "Coffee Tavern.md",
-    "My Previously Published Games.md",
-    "Craft Coffee.md",
-    "hand modeled coffee.md",
+    "Pasted image 20260521145047.png",
+    "What Does it Do.md",
+    "Pasted image 20260521144459.png",
+    "It Skips.md",
+    "I made a Web Application for Gold Nomination System with Islamic Legal Framework.md",
+    "Rogue-Like Runner.md",
+    "ASP.NET Core.md",
+    "randomly generated.md",
+    "Restarts from Zero (Roguelikes).md",
+    "Roguelike Solutions.md",
+    "Some Persistence (Roguelites).md",
+    "Roguelite Solutions.md",
+    "permadeath.md",
+    "Charon, Money only for this level.md",
+    "Solution.md",
+    "Shortcuts.md",
+    "Different Ways to Play.md",
+    "Cosmetics.md",
+    "Lore and Character Backstories.md",
+    "Upgrades to Progress.md",
+    "Easiest at the End, Not Skill-Based.md",
+    "Losing unskilled players.md",
+    "New Game Ideas.md",
+    "Get Good to Progress.md",
+    "Untitled.base",
+    "Sea Creatures.md",
+    "Hello.md",
+    "Dungeon Meshi Magic System.md",
     "Screen Recording 2026-05-04 211424.mp4",
     "2026-02-23 16-16-01.mp4",
     "A",
     "README-md",
     "Pasted image 20260504111120.png",
     "Untitled 1.base",
-    "Untitled.base",
     "Pasted image 20260504111045.png",
     "Pasted image 20260504110924.png",
     "Pasted image 20260504110802.png",

@@ -1,0 +1,30 @@
+[[What Does it Do]]
+
+Warir atau penama yang ingin menuntut wang simpanan pendeposit yang telah meninggal dunia perlu hadir ke mana-mana cawangan Tabung Haji dengan membawa **Sijil Kematian asal** (atau salinan yang telah disahkan) berserta dokumen pengenalan diri penama. Kehadiran ini adalah untuk tujuan pengesahan dan proses pengeluaran wang pusaka.
+
+
+Tahukah anda peranan waris dalam proses tuntutan pusaka?
+
+Untuk bantuan dan maklumat lanjut, sila hubungi Tabung Haji Contact Centre (THCC) di talian 03-6207 1919.
+
+***
+[#tabunghaji](https://web.facebook.com/hashtag/tabunghaji?__cft__[0]=AZbwdxwtKGa3PvBfWMBax762UXBUqxjaOFB1HKIWiOVolzdvAGduz7UoK8uhel_UlMMtELAuRcDULhQIWSRAm4UfC7egL2XIXzX5OJVv-IG435ihGlABh0YjTCPguuJS3hdXP692sU7cjMMTQyNl3f6UvXrnK1TxUPupAP6XztcKQg&__tn__=*NK-R) [#bukaakaun](https://web.facebook.com/hashtag/bukaakaun?__cft__[0]=AZbwdxwtKGa3PvBfWMBax762UXBUqxjaOFB1HKIWiOVolzdvAGduz7UoK8uhel_UlMMtELAuRcDULhQIWSRAm4UfC7egL2XIXzX5OJVv-IG435ihGlABh0YjTCPguuJS3hdXP692sU7cjMMTQyNl3f6UvXrnK1TxUPupAP6XztcKQg&__tn__=*NK-R)
+[#kemestianumatislam](https://web.facebook.com/hashtag/kemestianumatislam?__cft__[0]=AZbwdxwtKGa3PvBfWMBax762UXBUqxjaOFB1HKIWiOVolzdvAGduz7UoK8uhel_UlMMtELAuRcDULhQIWSRAm4UfC7egL2XIXzX5OJVv-IG435ihGlABh0YjTCPguuJS3hdXP692sU7cjMMTQyNl3f6UvXrnK1TxUPupAP6XztcKQg&__tn__=*NK-R) [#penamaanwaristh](https://web.facebook.com/hashtag/penamaanwaristh?__cft__[0]=AZbwdxwtKGa3PvBfWMBax762UXBUqxjaOFB1HKIWiOVolzdvAGduz7UoK8uhel_UlMMtELAuRcDULhQIWSRAm4UfC7egL2XIXzX5OJVv-IG435ihGlABh0YjTCPguuJS3hdXP692sU7cjMMTQyNl3f6UvXrnK1TxUPupAP6XztcKQg&__tn__=*NK-R) [#pusaka](https://web.facebook.com/hashtag/pusaka?__cft__[0]=AZbwdxwtKGa3PvBfWMBax762UXBUqxjaOFB1HKIWiOVolzdvAGduz7UoK8uhel_UlMMtELAuRcDULhQIWSRAm4UfC7egL2XIXzX5OJVv-IG435ihGlABh0YjTCPguuJS3hdXP692sU7cjMMTQyNl3f6UvXrnK1TxUPupAP6XztcKQg&__tn__=*NK-R) [#malaysiamadani](https://web.facebook.com/hashtag/malaysiamadani?__cft__[0]=AZbwdxwtKGa3PvBfWMBax762UXBUqxjaOFB1HKIWiOVolzdvAGduz7UoK8uhel_UlMMtELAuRcDULhQIWSRAm4UfC7egL2XIXzX5OJVv-IG435ihGlABh0YjTCPguuJS3hdXP692sU7cjMMTQyNl3f6UvXrnK1TxUPupAP6XztcKQg&__tn__=*NK-R) [#alfalah](https://web.facebook.com/hashtag/alfalah?__cft__[0]=AZbwdxwtKGa3PvBfWMBax762UXBUqxjaOFB1HKIWiOVolzdvAGduz7UoK8uhel_UlMMtELAuRcDULhQIWSRAm4UfC7egL2XIXzX5OJVv-IG435ihGlABh0YjTCPguuJS3hdXP692sU7cjMMTQyNl3f6UvXrnK1TxUPupAP6XztcKQg&__tn__=*NK-R)
+***
+
+![[Pasted image 20260521144459.png]]
+
+
+
+---
+Panduan ringkas untuk proses ini:
+
+- **Jika Penama Masih Hidup:** Proses pengeluaran wang adalah lebih mudah dan pantas. Penama hanya perlu membawa Sijil Kematian asal dan kad pengenalan diri ke kaunter Tabung Haji.
+- **Jika Penama Telah Meninggal Dunia:** Waris perlu membawa Sijil Kematian asal pendeposit serta Sijil Kematian asal bagi penama tersebut untuk semakan lanjut. [](https://www.facebook.com/TabungHaji/posts/tahukah-anda-peranan-waris-dalam-proses-tuntutan-pusakauntuk-bantuan-dan-makluma/812615937570743/)
+    
+    ![](data:image/png;base64,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)Facebook·Tabung Haji +1
+
+Untuk maklumat lanjut mengenai dokumen sokongan lain seperti borang pengeluaran, anda boleh merujuk panduan rasmi di laman web Tabung Haji - Pengeluaran Dan Penutupan Akaun.
+
+
+![[Pasted image 20260521145047.png]]

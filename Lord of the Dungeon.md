@@ -1,1 +1,1 @@
-An Elf with [[Immortality Magic]]
+An Elf with [[Immortality Magic]]. Turns the [[Red Dragon]] into a [[Chimera]].
